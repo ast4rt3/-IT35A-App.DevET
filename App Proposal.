@@ -8,7 +8,7 @@ Goal:
   Not just water conditions, this project aims to support SDG 13 to combat climate change and its impacts.
 
 Role:
-  I am a software developer trying to contribute to the SDG agenda.
+  I am a web developer trying to contribute to the SDG agenda.
 
 Audience:
   Instructors
@@ -17,5 +17,11 @@ Audience:
   General public
 
 Situation:
-  Water scarcity, lack of awareness contribute to unsustainable water consumption and water pollution. 
+  Water scarcity:
+    -Over 2.3 billion people live in water-stressed countries, with climate change and population growth worsening the crisis. 
+  lack of awareness contribute to unsustainable water consumption:
+    -Citizens and even policymakers struggle to track updates, monitor enforcement, and measure their impact.
+  water pollution: 
+    -Industrial waste, agricultural runoff, and improper sewage disposal contaminate freshwater sources, reducing access to clean drinking water.
+
   The application addresses these issues by providing real-time policy updates,suggestions,Awareness, tracking water usage, and encouraging sustainable practices.
